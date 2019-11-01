@@ -142,24 +142,11 @@ p{
 	font-weight: 600;
 }
 .tarjeta{
-	background-color: #3f4d6b;
+	background-color: #ffffff;
 	padding: 15px 20px;
-	color: #ffffff;
 	position: relative;
 	border-radius: 5px;
 	text-align: center;
-}
-
-.tarjeta h4{
-	color: #58c4c4;
-	text-transform: uppercase;
-	font-size: 16px;
-	font-weight: 400;
-	text-align: left !important;
-}
-
-.tarjeta p{
-	text-align: left !important;
 }
 
 .redes-tarjeta{
@@ -258,4 +245,66 @@ h2{
 	color: #1879fd;
 	font-size: 50px;
 	border-radius: 100%
+}
+
+#clients{
+	background-color: #000000;
+}
+
+#clients h3{
+	color: #ffffff;
+	text-transform: capitalize;
+	font-size: 25px;
+	font-weight: 500;
+}
+#clients p{
+	color: #CBCBCB;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+
+#clients h2{
+	color: #ffffff;
+}
+#clients h6{
+	font-weight: 500;
+	color: #B4B4B4;
+}
+
+#pricing{
+	text-align: center;
+}
+
+#pricing h3{
+	border-bottom: solid 1px #c5c5c5;
+	color:#1879fd;
+	padding-bottom: 10px;
+}
+
+#pricing p{
+	font-size: 16px;
+	line-height: 30px;
+}
+
+#pricing h3{
+	padding-top: 30px;
+}
+#pricing h4{
+	font-weight: 600;
+	font-size: 38px;
+	padding-bottom: 10px;
+	border-bottom: solid 1px #c5c5c5;
+}
+
+.btn-primary{
+	color: #1879fd;
+	background-color: #ffffff;
+	border: solid 2px #1879fd;
+	font-weight: 600;
+	border-radius: 25px;
+	padding: 8px 50px;
+}
+
+#pricing{
+	background-color: #F0F0F0;
 }
