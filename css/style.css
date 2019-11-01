@@ -306,5 +306,35 @@ h2{
 }
 
 #pricing{
-	background-color: #F0F0F0;
+	background-color: #E3E3E3;
+}
+
+#download h6{
+	font-weight: 600;
+	text-align: center;
+	color: #fff;
+}
+
+#download .fab{
+	text-align: center;
+	font-size: 50px;
+	color: #fff;
+}
+
+#download p{
+	font-size: 16px;
+}
+.tarjetix{
+	background-color: #5DFF4B;
+	padding: 10px 10px;
+}
+
+.tarjetiu{
+	background-color: #22D7C3;
+	padding: 10px 10px;
+}
+
+.tarjetiy{
+	background-color: #FF8B33;
+	padding: 10px 10px;
 }
